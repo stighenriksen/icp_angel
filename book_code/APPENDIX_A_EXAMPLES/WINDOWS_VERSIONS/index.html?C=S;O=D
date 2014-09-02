@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/APPENDIX_A_EXAMPLES/WINDOWS_VERSIONS</title>
+ </head>
+ <body>
+<h1>Index of /~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/APPENDIX_A_EXAMPLES/WINDOWS_VERSIONS</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/APPENDIX_A_EXAMPLES/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example9.cpp">append_example9.cpp</a></td><td align="right">10-May-2011 17:19  </td><td align="right"> 16K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example8.cpp">append_example8.cpp</a></td><td align="right">17-Oct-2011 19:25  </td><td align="right">8.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="vertices.h">vertices.h</a></td><td align="right">10-May-2011 17:20  </td><td align="right">7.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example6.cpp">append_example6.cpp</a></td><td align="right">10-May-2011 17:11  </td><td align="right">7.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example7.cpp">append_example7.cpp</a></td><td align="right">10-May-2011 17:14  </td><td align="right">6.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example5.cpp">append_example5.cpp</a></td><td align="right">10-May-2011 17:08  </td><td align="right">6.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example10.cpp">append_example10.cpp</a></td><td align="right">10-May-2011 17:21  </td><td align="right">5.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example4.cpp">append_example4.cpp</a></td><td align="right">10-May-2011 17:05  </td><td align="right">5.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="patches.h">patches.h</a></td><td align="right">10-May-2011 17:20  </td><td align="right">3.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example3.cpp">append_example3.cpp</a></td><td align="right">10-May-2011 16:40  </td><td align="right">3.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="append_example2.cpp">append_example2.cpp</a></td><td align="right">10-May-2011 16:30  </td><td align="right">2.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="InitShader.cpp">InitShader.cpp</a></td><td align="right">10-May-2011 16:33  </td><td align="right">2.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a6.glsl">vshader_a6.glsl</a></td><td align="right">10-May-2011 17:10  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a4.glsl">vshader_a4.glsl</a></td><td align="right">10-May-2011 17:04  </td><td align="right">938 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a8.glsl">vshader_a8.glsl</a></td><td align="right">10-May-2011 17:15  </td><td align="right">928 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a7.glsl">fshader_a7.glsl</a></td><td align="right">10-May-2011 17:13  </td><td align="right">875 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a7.glsl">vshader_a7.glsl</a></td><td align="right">10-May-2011 17:13  </td><td align="right">460 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a5.glsl">vshader_a5.glsl</a></td><td align="right">10-May-2011 17:07  </td><td align="right">221 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a9.glsl">vshader_a9.glsl</a></td><td align="right">10-May-2011 17:17  </td><td align="right">207 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a8.glsl">fshader_a8.glsl</a></td><td align="right">10-May-2011 17:15  </td><td align="right">170 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a10.glsl">vshader_a10.glsl</a></td><td align="right">10-May-2011 17:20  </td><td align="right">122 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a10.glsl">fshader_a10.glsl</a></td><td align="right">10-May-2011 17:20  </td><td align="right"> 92 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a6.glsl">fshader_a6.glsl</a></td><td align="right">10-May-2011 17:11  </td><td align="right"> 90 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a2.glsl">fshader_a2.glsl</a></td><td align="right">10-May-2011 16:29  </td><td align="right"> 90 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a9.glsl">fshader_a9.glsl</a></td><td align="right">10-May-2011 17:18  </td><td align="right"> 89 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a5.glsl">fshader_a5.glsl</a></td><td align="right">10-May-2011 17:08  </td><td align="right"> 89 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a3.glsl">fshader_a3.glsl</a></td><td align="right">10-May-2011 16:39  </td><td align="right"> 89 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fshader_a4.glsl">fshader_a4.glsl</a></td><td align="right">10-May-2011 17:05  </td><td align="right"> 88 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a3.glsl">vshader_a3.glsl</a></td><td align="right">10-May-2011 16:39  </td><td align="right"> 79 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="vshader_a2.glsl">vshader_a2.glsl</a></td><td align="right">10-May-2011 16:29  </td><td align="right"> 79 </td><td>&nbsp;</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.2.22 (Debian) Server at www.cs.unm.edu Port 80</address>
+</body></html>
