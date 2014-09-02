@@ -15,7 +15,7 @@ build-type:          Simple
 -- extra-source-files:  
 cabal-version:       >=1.10
 
-executable icp-angel
+executable example
   main-is:             Main.hs
   -- other-modules:       
   -- other-extensions:    
@@ -23,4 +23,12 @@ executable icp-angel
                , GLFW-b >= 1.4.6 && < 1.5
                , OpenGL >= 2.9.2 && < 3.0 
   -- hs-source-dirs:      
+  default-language:    Haskell2010
+
+executable example2_1
+  hs-source-dirs: Example2_1 Common
+  main-is: Example2_1.hs
+  build-depends: base   >= 4.7   && <4.8
+               , GLFW-b >= 1.4.6 && < 1.5
+               , OpenGL >= 2.9.2 && < 3.0 
   default-language:    Haskell2010
