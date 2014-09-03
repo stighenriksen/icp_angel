@@ -4,6 +4,18 @@ import Control.Monad(unless, when)
 import Graphics.Rendering.OpenGL
 import System.Exit
 
+numPoints :: Int
+numPoints = 5000
+
+data Vec2 = Vec2 Double Double
+
+init :: IO ()
+init = do
+  vertices <- return [(Vec2 -1.0 -1.0, Vec2 0.0 1.0, Vec2 1.0 -1.0)]
+  someRandomPoint <- return $ Vec2 0.25 0.50
+  
+  randomPoint <- 
+
 main :: IO ()
 main = do
   glfwInit <- GLFW.init
